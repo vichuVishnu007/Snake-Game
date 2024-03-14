@@ -12,5 +12,5 @@ To run the code :
 
 1. download Zip file of the repository
     (or)
-   Excecute command " Git clone <Respositor Url> " in any prompt window.
+   Excecute command " Git clone (Respositor Url) " in any prompt console.
 2. open *.html file to hit the game.
